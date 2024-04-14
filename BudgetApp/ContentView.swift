@@ -23,7 +23,7 @@ struct ContentView: View {
                             .padding()
                         Spacer()
                         Button(action: {}) {
-                               Text("Sign in")
+                               Text("Sign In")
                                  .padding()
                                  .foregroundColor(.white)
                                  .background(.deepGreen)
